@@ -1,0 +1,43 @@
+body 
+{
+margin: 0;
+padding: 0;
+background-color: lightgray;    
+}
+header 
+{
+width: 80%;
+height: 100px;
+background-color: white;
+margin-left: 10%;
+top: 0;   
+position: sticky; 
+z-index: 5;
+}
+nav 
+{
+    width: 80%;
+    height: 50px;
+    background-color: black;
+    margin-left: 10%;       
+}
+section 
+{
+    width: 80%;
+    height: 450px;
+    background-color: aquamarine;
+    margin-left: 10%;
+    position: relative;        
+}
+div 
+{
+position: absolute;    
+}
+
+footer 
+{
+    width: 80%;
+    height: 150px;
+    background-color: black;
+    margin-left: 10%;   
+}
